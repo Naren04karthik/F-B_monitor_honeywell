@@ -1,5 +1,5 @@
 # 🍞🥛 F&B Vision: Smart Anomaly Prediction Framework for Food Process Quality Control
-##📌 Overview
+## 📌 Overview
 
 This project, developed for the Honeywell Hackathon, introduces F&B Vision, a real-time anomaly detection and quality monitoring system for the Food & Beverage (F&B) industry.
 
